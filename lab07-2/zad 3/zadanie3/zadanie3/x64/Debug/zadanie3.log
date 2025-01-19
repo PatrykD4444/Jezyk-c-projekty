@@ -1,0 +1,3 @@
+﻿  zadanie3.c
+C:\Users\HardPC\source\repos\lab07\zad 3\zadanie3\zadanie3\zadanie3.c(7,12): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  zadanie3.vcxproj -> C:\Users\HardPC\source\repos\lab07\zad 3\zadanie3\x64\Debug\zadanie3.exe
