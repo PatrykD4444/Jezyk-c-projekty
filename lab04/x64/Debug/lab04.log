@@ -1,0 +1,12 @@
+﻿  lab04.c
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(159,20): error C2065: "MAX_LEN": niezadeklarowany identyfikator
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(159,20): error C2057: oczekiwano stałego wyrażenia
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(159,20): error C2466: nie można przydzielić tablicy stałego rozmiaru 0
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(159,10): error C2133: "inputText": nieznany rozmiar
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(160,22): error C2065: "MAX_LEN": niezadeklarowany identyfikator
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(160,22): error C2057: oczekiwano stałego wyrażenia
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(160,22): error C2466: nie można przydzielić tablicy stałego rozmiaru 0
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(160,10): error C2133: "encodedText": nieznany rozmiar
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(164,22): warning C4034: operator sizeof zwraca wartość 0
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(175,43): error C2143: błąd składniowy: brakuje „;” przed „/”
+C:\Users\HardPC\source\repos\lab04\lab04\lab04.c(176,42): error C2143: błąd składniowy: brakuje „;” przed „/”
