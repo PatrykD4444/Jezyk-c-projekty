@@ -1,0 +1,7 @@
+﻿  zadanie.c
+C:\Users\HardPC\source\repos\lab07\zad6\zadanie6\zadanie6\zadanie.c(16,29): error C2057: oczekiwano stałego wyrażenia
+C:\Users\HardPC\source\repos\lab07\zad6\zadanie6\zadanie6\zadanie.c(16,29): error C2466: nie można przydzielić tablicy stałego rozmiaru 0
+C:\Users\HardPC\source\repos\lab07\zad6\zadanie6\zadanie6\zadanie.c(16,20): error C2133: "tablica1": nieznany rozmiar
+C:\Users\HardPC\source\repos\lab07\zad6\zadanie6\zadanie6\zadanie.c(17,29): error C2057: oczekiwano stałego wyrażenia
+C:\Users\HardPC\source\repos\lab07\zad6\zadanie6\zadanie6\zadanie.c(17,29): error C2466: nie można przydzielić tablicy stałego rozmiaru 0
+C:\Users\HardPC\source\repos\lab07\zad6\zadanie6\zadanie6\zadanie.c(17,20): error C2133: "tablica2": nieznany rozmiar

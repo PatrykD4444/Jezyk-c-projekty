@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\HardPC\source\repos\lab07\lab07\FileName.c(2,10): error C1083: Nie można otworzyć pliku dołącz: 'trojkat.h': No such file or directory
+  lab07.c
+C:\Users\HardPC\source\repos\lab07\lab07\lab07.c(1,10): error C1083: Nie można otworzyć pliku dołącz: 'trojkat.h': No such file or directory
+  Generowanie kodu...
